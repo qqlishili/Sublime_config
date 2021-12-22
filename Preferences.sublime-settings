@@ -1,0 +1,18 @@
+{
+    "ignored_packages": ["CodeFormatter",
+        "Markdown",
+        "Vintage",
+    ],
+    "theme": "Default.sublime-theme",
+    "word_wrap": true,
+    "wrap_width": 0,
+    "font_face": "苹方 粗体",
+    // "font_face": "Hack NF",
+    "font_size": 11,
+    "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj", "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "__pycache__"],
+    "highlight_modified_tabs": true,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "dark_color_scheme": "Celeste.sublime-color-scheme",
+    "light_color_scheme": "Celeste.sublime-color-scheme",
+}

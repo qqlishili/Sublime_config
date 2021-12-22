@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"0x0",
+		"A File Icon",
+		"Agila Theme",
+		"Alignment",
+		"ayu",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"CodeFormatter",
+		"Color Highlight",
+		"Color Highlighter",
+		"CTags",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"Jedi - Python autocompletion",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Materialize",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"TrailingSpaces",
+		"Zen Tabs",
+	],
+}
